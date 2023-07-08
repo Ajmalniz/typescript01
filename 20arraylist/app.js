@@ -1,0 +1,12 @@
+var mountains = ["K2", "Nanga Parbat", "Tirich Mir", "Rakaposhi"];
+var rivers = ["Indus", "Jhelum", "Chenab", "Ravi"];
+var languages = ["Urdu", "Punjabi", "Pashto", "Sindhi"];
+var cities = ["Karachi", "Lahore", "Islamabad", "Rawalpindi", "Peshawar"];
+console.log("Mountains in Pakistan:");
+console.log(mountains);
+console.log("\nRivers in Pakistan:");
+console.log(rivers);
+console.log("\nLanguages in Pakistan:");
+console.log(languages);
+console.log("\nMajor Cities in Pakistan:");
+console.log(cities);
